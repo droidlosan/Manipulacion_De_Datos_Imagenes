@@ -1,2 +1,2 @@
-# Manipulacion_De_Datos_Imagenes
-Colección de scripts para manipulación de datos/imagenes
+# Manipulación de datos/Imagenes
+Colección de scripts para manipulación de datos/imagenes en diferentes proyectos.
